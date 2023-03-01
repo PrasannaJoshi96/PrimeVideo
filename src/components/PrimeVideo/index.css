@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-container {
+  min-height: 100vh;
+  background-color: #000000;
+  width: 100vw;
+  padding-bottom: 40px;
+}
+.prime-video-image {
+  height: 300px;
+  width: 100vw;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.video-section-container {
+  padding-left: 40px;
+  padding-right: 40px;
+}
